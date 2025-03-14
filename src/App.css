@@ -46,9 +46,6 @@ body {
 
 #equal-btn {
   height: 80%;
-  border-top-left-radius: 0 !important;
-  border-top-right-radius: 0 !important;
-  border-bottom-left-radius: 0 !important;
 }
 
 .btn{
